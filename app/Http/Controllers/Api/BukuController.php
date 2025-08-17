@@ -20,7 +20,7 @@ class BukuController extends Controller
             'message' => 'Data ditemukan',
             'data' => $data
         ], 200);
-    }
+    }   
 
     /**
      * Store a newly created resource in storage.
